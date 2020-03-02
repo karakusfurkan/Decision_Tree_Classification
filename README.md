@@ -1,7 +1,7 @@
 Decision Tree Classifation example about predicting the clicked ads by estimated salary  with Python
 
 
-This is the SVM test results. Correlation matrix's result is: <br>
+This is the Decision Tree test results. Correlation matrix's result is: <br>
 [[62 6 <br>
   &nbsp;&nbsp;3 29]]
 
